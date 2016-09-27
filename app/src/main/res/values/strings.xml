@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Book LIst</string>
+    <string name="empty_list">No Results to Show, please restart your application</string>
+</resources>
